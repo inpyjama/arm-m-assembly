@@ -30,7 +30,8 @@
             "davidbwaters.macos-modern-theme",
             "maziac.hex-hover-converter",
             "ms-vscode.hexeditor",
-            "trond-snekvik.gnu-mapfiles"
+            "trond-snekvik.gnu-mapfiles",
+            "joshuabernstein.armextensionhelpers"
             ]
         }
     }
