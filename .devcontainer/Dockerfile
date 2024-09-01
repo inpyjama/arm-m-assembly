@@ -25,8 +25,5 @@ RUN sudo apt-get install --no-install-recommends -y \
   gcc-arm-none-eabi \
   gdb-multiarch
 
-RUN pip install pygments
-RUN wget -P ~ https://git.io/.gdbinit
-
 # terminal colors with xterm
 ENV TERM xterm

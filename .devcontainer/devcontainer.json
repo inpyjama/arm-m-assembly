@@ -34,5 +34,6 @@
             "joshuabernstein.armextensionhelpers"
             ]
         }
-    }
+    },
+    "postCreateCommand": "pip3 install pygments && wget -P ~ https://git.io/.gdbinit"
 }
