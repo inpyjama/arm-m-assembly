@@ -21,5 +21,9 @@ Refer to the following resource when progressing through the course:
 1. [gnu as](https://ftp.gnu.org/old-gnu/Manuals/gas/html_chapter/as_toc.html)
 1. [Cortex-M3 Instructions](https://developer.arm.com/documentation/ddi0337/h/programmers-model/instruction-set-summary/cortex-m3-instructions)
 
+### STM32VL Discovery
+1. [STM32F100x reference manual](https://www.st.com/resource/en/reference_manual/cd00246267-stm32f100xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
+1. [STM32F100x data sheet](https://www.st.com/resource/en/datasheet/stm32f100cb.pdf)
+
 # Copyright
 Copyright © 2024 inpyjama.com. All Rights Reserved.
