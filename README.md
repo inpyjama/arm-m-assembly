@@ -25,5 +25,8 @@ Refer to the following resource when progressing through the course:
 1. [STM32F100x reference manual](https://www.st.com/resource/en/reference_manual/cd00246267-stm32f100xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 1. [STM32F100x data sheet](https://www.st.com/resource/en/datasheet/stm32f100cb.pdf)
 
+### Cortex-M3 Documentation
+1. [Cortex-M3 Devices Generic User Guide](https://developer.arm.com/documentation/dui0552/latest/)
+
 # Copyright
 Copyright © 2024 inpyjama.com. All Rights Reserved.
