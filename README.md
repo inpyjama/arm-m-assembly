@@ -6,8 +6,6 @@ The code provided as part of this repository is ONLY for learning purposes!
 
 Checkout the Course Bundle: [Firmware Engineer's Arsenal](https://engineers.inpyjama.com/learn/fw-arsenal).
 
-![](.devcontainer/images/arsenal-with-face.png)
-
 Codespace instance created on this repository is used as Lab environment for the `ARM Cortex-M - Baremetal Assembly Programming` course, included as part of the [Firmware Engineer's Arsenal](https://engineers.inpyjama.com/learn/fw-arsenal) Bundle of courses.
 
 # Resources
